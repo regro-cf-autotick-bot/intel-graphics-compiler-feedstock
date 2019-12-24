@@ -1,5 +1,5 @@
 {% set name = "intel-graphics-compiler" %}
-{% set version = "1.0.3032" %}
+{% set version = "1.0.3041" %}
 {% set llvm_version = "9.0.0" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://github.com/intel/{{ name }}/archive/igc-{{ version }}.tar.gz
-  sha256: 242c90e37c899a288214aaa53b5d368d42739e3af0b2792f024db62ef3a2ed29
+  sha256: 91233f7c2fb5f1e829232815a0e3b80585f7f7537360aa1445955973ad0d928d
 
 build:
   number: 0
