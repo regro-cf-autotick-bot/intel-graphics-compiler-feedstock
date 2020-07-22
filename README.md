@@ -5,7 +5,7 @@ Home: https://github.com/intel/intel-graphics-compiler
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: The Intel(R) Graphics Compiler for OpenCL(TM) is an llvm based compiler for OpenCL(TM) targeting Intel Gen graphics hardware architecture.
 
